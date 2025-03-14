@@ -1,0 +1,11 @@
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de OneDrive que podrían causar problemas
+.OneDrive
+*.lnk
+
+# Ignorar archivos de compilación o temporales
+*.log
+*.tmp
