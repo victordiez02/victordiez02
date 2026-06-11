@@ -61,7 +61,7 @@ Software Developer with a Mathematics background, interested in AI-powered appli
   &nbsp;
   <a href="https://brawl-gpt.vercel.app/"><img src="https://img.shields.io/badge/Visit_App-FBCD29?style=for-the-badge&logo=vercel&logoColor=black" alt="Web BrawlGPT" /></a>
   &nbsp;
-  <a href="https://brawl-gpt.vercel.app/docs"><img src="https://img.shields.io/badge/FastAPI_Docs-00A779?style=for-the-badge&logo=fastapi&logoColor=white" alt="Docs BrawlGPT" /></a>
+  <a href="https://brawlgpt-backend-762078704585.europe-west1.run.app/docs"><img src="https://img.shields.io/badge/FastAPI_Docs-00A779?style=for-the-badge&logo=fastapi&logoColor=white" alt="Docs BrawlGPT" /></a>
 </p>
 
 <br/>
@@ -96,7 +96,7 @@ Software Developer with a Mathematics background, interested in AI-powered appli
   &nbsp;
   <a href="https://kcalsculadora.vercel.app/"><img src="https://img.shields.io/badge/Visit_App-e46c44?style=for-the-badge&logo=vercel&logoColor=black" alt="Web Kcalsculadora" /></a>
   &nbsp;
-  <a href="https://kcalsculadora.vercel.app/docs"><img src="https://img.shields.io/badge/FastAPI_Docs-1f2937?style=for-the-badge&logo=fastapi" alt="Docs Kcalsculadora" /></a>
+  <a href="https://kcalsculadora-backend-762078704585.europe-west1.run.app/docs"><img src="https://img.shields.io/badge/FastAPI_Docs-1f2937?style=for-the-badge&logo=fastapi" alt="Docs Kcalsculadora" /></a>
 </p>
 
 <br/>
